@@ -1,0 +1,17 @@
+{
+  "name": "seo-rambo777",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "สล็อตออนไลน์ rambo777 ไม่มีขั้นต่ำ",
+  "keywords": [
+    "rambo777",
+    "สล็อตออนไลน์",
+    "สล็อตเว็บตรง",
+    "สล็อตเครดิตฟรี"
+  ],
+  "repository": "https://github.com/atom/rambo777",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
